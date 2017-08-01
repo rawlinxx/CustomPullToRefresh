@@ -1,0 +1,22 @@
+PODS:
+  - CustomPullToRefresh (0.0.1)
+  - DGActivityIndicatorView (2.1.1)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - CustomPullToRefresh (from `..`)
+  - DGActivityIndicatorView
+  - SnapKit
+
+EXTERNAL SOURCES:
+  CustomPullToRefresh:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  CustomPullToRefresh: 0984a1bca6c3a80a3930a7eb1c2cc122f85c5f91
+  DGActivityIndicatorView: ff2c76073d79692f724863c8dd38685866a03cb6
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 72a70c8b2992194a15a03158a2482bd443163dce
+
+COCOAPODS: 1.2.1
